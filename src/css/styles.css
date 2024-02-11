@@ -215,6 +215,8 @@ text-transform: none;
   transition: transform 400ms ease-in-out;
   border-radius: 8px;
   border: 5px solid #bf9019;
+  width: 360px;
+  height: 300px
 }
 
 .img-guliver img:hover {
@@ -260,6 +262,8 @@ text-transform: none;
     transition: transform 400ms ease-in-out;
   border-radius: 8px;
   border: 5px solid #418a8a;
+  width: 360px;
+  height: 300px
 }
 .gurden-list img:hover {
     transform: scale(1.1);
