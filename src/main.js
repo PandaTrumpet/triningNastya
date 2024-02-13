@@ -48,3 +48,6 @@ const lightbox2 = new SimpleLightbox('.gurden-menu a', {
     captionsData: "alt",
     captionDelay:250,
 });
+
+
+

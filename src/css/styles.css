@@ -48,6 +48,7 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: #fff;
   color: #434455;
+  /* background-image: url(../img/title.jpg); */
 }
 a {
   text-decoration: none;
@@ -67,6 +68,7 @@ header,
 footer {
     width: 1200px;
 }
+
 /* ==================================================HEADER=============================================== */
 
 .header-menu {
@@ -147,7 +149,7 @@ footer {
     
 }
 .title-img {
-    border: 4px solid black;
+    /* border: 4px solid black; */
     border-color: black;
     border-radius: 8px;
  
@@ -269,3 +271,4 @@ text-transform: none;
     transform: scale(1.1);
     cursor: pointer;
 }
+
